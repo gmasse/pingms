@@ -49,7 +49,7 @@ data1 = {
         name: "US-East, Washington (VIN)",
         url: "http://vin.smokeping.ovh.net/",
     }, {
-        name: "US-East, Portland (HIL)",
+        name: "US-West, Portland (HIL)",
         url: "http://pdx1-hil.smokeping.ovh.net/",
     }]
 };
