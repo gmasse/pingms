@@ -28,7 +28,7 @@ data1 = {
         name: "FR, North (RBX)",
         url: "http://rbx.smokeping.ovh.net/",
     }, {
-        name: "FR, Eeast (SBG)",
+        name: "FR, East (SBG)",
         url: "http://sbg.smokeping.ovh.net/",
     }, {
         name: "DE, Frankfurt (LIM)",
