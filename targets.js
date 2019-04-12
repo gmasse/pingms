@@ -35,7 +35,7 @@ data1 = {
         url: "http://lim.smokeping.ovh.net/",
     }, {
         name: "PL, Warsaw (WAW)",
-        url: "http://waw.smokeping.ovh.net/",
+        url: "http://waw1-oza.smokeping.ovh.net/",
     }, {
         name: "SG, Singapore (SGP)",
         url: "http://sgp.smokeping.ovh.net/",
@@ -43,14 +43,14 @@ data1 = {
         name: "AU, Sydney (SYD)",
         url: "http://syd.smokeping.ovh.net/",
     }, {
-        name: "CA-West, Montreal (BHS)",
+        name: "CA-East, Montreal (BHS)",
         url: "http://bhs.smokeping.ovh.net/",
     }, {
         name: "US-East, Washington (VIN)",
         url: "http://vin.smokeping.ovh.net/",
-//    }, {
-//        name: "US-East, Portland (HIL)",
-//        url: "http://hil.smokeping.ovh.net/",
+    }, {
+        name: "US-East, Portland (HIL)",
+        url: "http://pdx1-hil.smokeping.ovh.net/",
     }]
 };
 //
